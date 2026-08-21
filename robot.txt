@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://esaoaaltonen-lab.github.io/EUELVR/sitemap.xml
